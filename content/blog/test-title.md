@@ -11,6 +11,4 @@ Hey
 
 **big font**
 
-![](/uploads/4cc50723-18b8-4c92-9850-73cc41c50c1f.jpeg)
-
 alo alo
