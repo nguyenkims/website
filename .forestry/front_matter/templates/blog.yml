@@ -20,3 +20,5 @@ fields:
 - type: textarea
   name: intro
   label: intro
+pages:
+- content/blog/test-title.md
