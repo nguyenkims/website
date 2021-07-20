@@ -15,12 +15,6 @@ fields:
   name: author
   label: author
 - type: text
-  name: authorLink
-  label: authorLink
-- type: file
-  name: authorAvatar
-  label: authorAvatar
-- type: text
   name: layout
   label: layout
 - type: textarea
